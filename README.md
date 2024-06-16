@@ -3,8 +3,16 @@
 ![GitHub forks](https://img.shields.io/github/forks/<username>/<repo>)
 ![GitHub watchers](https://img.shields.io/github/watchers/<username>/<repo>)
 ![GitHub issues](https://img.shields.io/github/issues-raw/<username>/<repo>)
+![GitHub pull requests](https://img.shields.io/github/issues-pr/<username>/<repo>)
 ![GitHub Repo stars](https://img.shields.io/github/stars/<username>/<repo>)
 ![GitHub repo size](https://img.shields.io/github/repo-size/<username>/<repo>)
+![GitHub license](https://img.shields.io/github/license/<username>/<repo>)
+![GitHub contributors](https://img.shields.io/github/contributors/<username>/<repo>)
+![GitHub last commit](https://img.shields.io/github/last-commit/<username>/<repo>)
+![GitHub language count](https://img.shields.io/github/languages/count/<username>/<repo>)
+![GitHub top language](https://img.shields.io/github/languages/top/<username>/<repo>)
+![GitHub code size](https://img.shields.io/github/languages/code-size/<username>/<repo>)
+![GitHub commit activity](https://img.shields.io/github/commit-activity/m/<username>/<repo>)
 
 Welcome to this repository template!
 
