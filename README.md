@@ -6,11 +6,11 @@
 ![GitHub Repo stars](https://img.shields.io/github/stars/<username>/<repo>)
 ![GitHub repo size](https://img.shields.io/github/repo-size/<username>/<repo>)
 
-Welcome to short message explaninb the repo
+Welcome to this repository template!
 
 ## Description
 
-This is the repos description
+This repository serves as a template for creating structured markdown files for GitHub repositories.
 
 ## File Structure
 
@@ -21,41 +21,41 @@ This is the repos description
 │   │   ├── folder2
 │   │   │   ├── file.txt
 │   │   │   ├── file2.txt
-│   │   │   └── filx3.txt
+│   │   │   └── file3.txt
 │   │   └── folder3
 │   │       ├── folder4
 │   │       │   └── file4.txt
-
 ```
 
 ## Features
 
-- **Feature 1**: feature 1 description
-- **Feature 2**: feature 2 description
-- **Feature 3**: feature 3 description
+- **Feature 1**: Provides a standardized README template.
+- **Feature 2**: Includes a predefined file structure example.
+- **Feature 3**: Utilizes shields for repository metrics.
 
 ## Installation
 
-To run the application locally, follow these steps:
+To use this template, follow these steps:
 
 1. Clone the repository: `git clone https://github.com/<username>/<repo>`
 
 ## Usage
 
-- usage 1
-- usage 2
+- Customize the markdown files for your own repositories.
+- Modify the file structure example according to your needs.
 
 ## Credits
 
-- template source from [devvyyxyz](https://github.com/devvyyxyz).
+- Template source from [devvyyxyz](https://github.com/devvyyxyz).
 
 ### Legal Disclaimer
 > [!NOTE]
-> 
+> This template is provided as-is without warranties or conditions of any kind.
 
 ### License
 > [!NOTE]
->
-> 
+> This template is licensed under the MIT License. See LICENSE file for details.
+
 ### Donate
 > [!NOTE]
+> If you find this template useful, consider buying me a coffee!
