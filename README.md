@@ -14,17 +14,23 @@ This repository serves as a template for creating structured markdown files for 
 
 ## File Structure
 
-```
-├── folder
-│   ├── file0.txt
-│   ├── folder0
-│   │   ├── folder2
-│   │   │   ├── file.txt
-│   │   │   ├── file2.txt
-│   │   │   └── file3.txt
-│   │   └── folder3
-│   │       ├── folder4
-│   │       │   └── file4.txt
+```lua
+project-root
+├── README.md
+├── LICENSE
+├── .gitignore
+├── src
+│   ├── main.lua
+│   ├── utils.lua
+│   └── config
+│       ├── settings.lua
+│       └── secrets.lua
+├── tests
+│   ├── test_main.lua
+│   └── test_utils.lua
+├── docs
+│   ├── overview.md
+│   └── api_reference.md
 ```
 
 ## Features
@@ -33,16 +39,41 @@ This repository serves as a template for creating structured markdown files for 
 - **Feature 2**: Includes a predefined file structure example.
 - **Feature 3**: Utilizes shields for repository metrics.
 
+## Requirements
+
+- Requirement 1: List any prerequisites or dependencies.
+- Requirement 2: Detail any specific software or hardware needed.
+
 ## Installation
 
 To use this template, follow these steps:
 
 1. Clone the repository: `git clone https://github.com/<username>/<repo>`
+2. Navigate to the project directory: `cd <repo>`
+3. Install the dependencies: `install command`
 
 ## Usage
 
-- Customize the markdown files for your own repositories.
-- Modify the file structure example according to your needs.
+- Usage 1: Explain how to run the project.
+- Usage 2: Provide examples of common use cases.
+
+## Contributing
+
+To contribute to this project, follow these steps:
+
+1. Fork the repository.
+2. Create a new branch: `git checkout -b feature-branch`
+3. Make your changes and commit them: `git commit -m 'Add new feature'`
+4. Push to the branch: `git push origin feature-branch`
+5. Submit a pull request.
+
+## Tests
+
+To run tests, use the following command:
+
+```
+test command
+```
 
 ## Credits
 
@@ -56,6 +87,10 @@ To use this template, follow these steps:
 > [!NOTE]
 > This template is licensed under the MIT License. See the [LICENSE](https://github.com/<username>/<repo>/blob/main/LICENSE) file for details.
 
+### Contact
+
+For any questions or suggestions, please contact [Your Name](mailto:your-email@example.com).
+
 ### Donate
 > [!NOTE]
-> If you find this template useful, consider buying me a coffee!
+> If you find this template useful, consider buying me a coffee
