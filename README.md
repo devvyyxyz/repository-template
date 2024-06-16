@@ -13,7 +13,9 @@
 ![GitHub top language](https://img.shields.io/github/languages/top/<username>/<repo>)
 ![GitHub code size](https://img.shields.io/github/languages/code-size/<username>/<repo>)
 ![GitHub commit activity](https://img.shields.io/github/commit-activity/m/<username>/<repo>)
-
+![Build Status](https://img.shields.io/travis/<username>/<repo>)
+![Coverage Status](https://img.shields.io/coveralls/github/<username>/<repo>)
+![Dependencies](https://img.shields.io/david/<username>/<repo>)
 Welcome to this repository template!
 
 ## Description
