@@ -16,6 +16,7 @@
 ![Build Status](https://img.shields.io/travis/<username>/<repo>)
 ![Coverage Status](https://img.shields.io/coveralls/github/<username>/<repo>)
 ![Dependencies](https://img.shields.io/david/<username>/<repo>)
+
 Welcome to this repository template!
 
 ## Description
