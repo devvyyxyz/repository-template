@@ -1,5 +1,11 @@
 # repository template
 
+![GitHub forks](https://img.shields.io/github/forks/<username>/<repo>)
+![GitHub watchers](https://img.shields.io/github/watchers/<username>/<repo>)
+![GitHub issues](https://img.shields.io/github/issues-raw/<username>/<repo>)
+![GitHub Repo stars](https://img.shields.io/github/stars/<username>/<repo>)
+![GitHub repo size](https://img.shields.io/github/repo-size/<username>/<repo>)
+
 Welcome to short message explaninb the repo
 
 ## Description
@@ -42,16 +48,6 @@ To run the application locally, follow these steps:
 ## Credits
 
 - template source from [devvyyxyz](https://github.com/devvyyxyz).
-
-  
-![GitHub forks](https://img.shields.io/github/forks/<username>/<repo>)
-![GitHub watchers](https://img.shields.io/github/watchers/<username>/<repo>)
-![GitHub issues](https://img.shields.io/github/issues-raw/<username>/<repo>)
-![GitHub Repo stars](https://img.shields.io/github/stars/<username>/<repo>)
-![GitHub repo size](https://img.shields.io/github/repo-size/<username>/<repo>)
-
-Welcome to the Devvy's Modrinth Texture Packs repository! This repository hosts a collection of texture packs created by Devvyxyz and published on Modrinth.com. These texture packs offer unique visual experiences for various Minecraft versions.
-
 
 ### Legal Disclaimer
 > [!NOTE]
