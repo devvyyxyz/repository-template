@@ -54,7 +54,7 @@ To use this template, follow these steps:
 
 ### License
 > [!NOTE]
-> This template is licensed under the MIT License. See LICENSE file for details.
+> This template is licensed under the MIT License. See the [LICENSE](https://github.com/<username>/<repo>/blob/main/LICENSE) file for details.
 
 ### Donate
 > [!NOTE]
