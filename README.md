@@ -1,21 +1,21 @@
 # repository template
 
-![GitHub forks](https://img.shields.io/github/forks/<username>/<repo>)
-![GitHub watchers](https://img.shields.io/github/watchers/<username>/<repo>)
-![GitHub issues](https://img.shields.io/github/issues-raw/<username>/<repo>)
-![GitHub pull requests](https://img.shields.io/github/issues-pr/<username>/<repo>)
-![GitHub Repo stars](https://img.shields.io/github/stars/<username>/<repo>)
-![GitHub repo size](https://img.shields.io/github/repo-size/<username>/<repo>)
-![GitHub license](https://img.shields.io/github/license/<username>/<repo>)
-![GitHub contributors](https://img.shields.io/github/contributors/<username>/<repo>)
-![GitHub last commit](https://img.shields.io/github/last-commit/<username>/<repo>)
-![GitHub language count](https://img.shields.io/github/languages/count/<username>/<repo>)
-![GitHub top language](https://img.shields.io/github/languages/top/<username>/<repo>)
-![GitHub code size](https://img.shields.io/github/languages/code-size/<username>/<repo>)
-![GitHub commit activity](https://img.shields.io/github/commit-activity/m/<username>/<repo>)
-![Build Status](https://img.shields.io/travis/<username>/<repo>)
-![Coverage Status](https://img.shields.io/coveralls/github/<username>/<repo>)
-![Dependencies](https://img.shields.io/david/<username>/<repo>)
+![GitHub forks](https://img.shields.io/github/forks/openai/repository-template)
+![GitHub watchers](https://img.shields.io/github/watchers/openai/repository-template)
+![GitHub issues](https://img.shields.io/github/issues-raw/openai/repository-template)
+![GitHub pull requests](https://img.shields.io/github/issues-pr/openai/repository-template)
+![GitHub Repo stars](https://img.shields.io/github/stars/openai/repository-template)
+![GitHub repo size](https://img.shields.io/github/repo-size/openai/repository-template)
+![GitHub license](https://img.shields.io/github/license/openai/repository-template)
+![GitHub contributors](https://img.shields.io/github/contributors/openai/repository-template)
+![GitHub last commit](https://img.shields.io/github/last-commit/openai/repository-template)
+![GitHub language count](https://img.shields.io/github/languages/count/openai/repository-template)
+![GitHub top language](https://img.shields.io/github/languages/top/openai/repository-template)
+![GitHub code size](https://img.shields.io/github/languages/code-size/openai/repository-template)
+![GitHub commit activity](https://img.shields.io/github/commit-activity/m/openai/repository-template)
+![Build Status](https://img.shields.io/travis/openai/repository-template)
+![Coverage Status](https://img.shields.io/coveralls/github/openai/repository-template)
+![Dependencies](https://img.shields.io/david/openai/repository-template)
 
 Welcome to this repository template!
 
@@ -25,23 +25,18 @@ This repository serves as a template for creating structured markdown files for 
 
 ## File Structure
 
-```lua
+```bash
 project-root
 ├── README.md
 ├── LICENSE
+├── CODE_OF_CONDUCT.md
+├── .github
+│   ├── FUNDING.yml
+│   ├── PULL_REQUEST_TEMPLATE.md
+│   └── ISSUE_TEMPLATE
+│       ├── bug_report.md
+│       └── feature_request.md
 ├── .gitignore
-├── src
-│   ├── main.lua
-│   ├── utils.lua
-│   └── config
-│       ├── settings.lua
-│       └── secrets.lua
-├── tests
-│   ├── test_main.lua
-│   └── test_utils.lua
-├── docs
-│   ├── overview.md
-│   └── api_reference.md
 ```
 
 ## Features
@@ -59,9 +54,9 @@ project-root
 
 To use this template, follow these steps:
 
-1. Clone the repository: `git clone https://github.com/<username>/<repo>`
-2. Navigate to the project directory: `cd <repo>`
-3. Install the dependencies: `install command`
+1. Clone the repository: `git clone https://github.com/openai/repository-template.git`
+2. Navigate to the project directory: `cd repository-template`
+3. No additional dependencies are required for this template
 
 ## Usage
 
@@ -80,11 +75,7 @@ To contribute to this project, follow these steps:
 
 ## Tests
 
-To run tests, use the following command:
-
-```
-test command
-```
+This template does not include automated tests.
 
 ## Credits
 
@@ -96,11 +87,11 @@ test command
 
 ### License
 > [!NOTE]
-> This template is licensed under the MIT License. See the [LICENSE](https://github.com/<username>/<repo>/blob/main/LICENSE) file for details.
+> This template is licensed under the MIT License. See the [LICENSE](https://github.com/openai/repository-template/blob/main/LICENSE) file for details.
 
 ### Contact
 
-For any questions or suggestions, please contact [Your Name](mailto:your-email@example.com).
+For any questions or suggestions, please contact [the maintainer](mailto:maintainer@example.com).
 
 ### Donate
 > [!NOTE]
